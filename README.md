@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kd-heree/Leetcode/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/kd-heree/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
