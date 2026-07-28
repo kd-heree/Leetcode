@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kd-heree/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/kd-heree/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1089-duplicate-zeros](https://github.com/kd-heree/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/kd-heree/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+## Two Pointers
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/kd-heree/Leetcode/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
