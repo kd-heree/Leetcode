@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kd-heree/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kd-heree/Leetcode/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/kd-heree/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/kd-heree/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kd-heree/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/kd-heree/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/kd-heree/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/kd-heree/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
