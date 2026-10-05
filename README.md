@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kd-heree/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1089-duplicate-zeros](https://github.com/kd-heree/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/kd-heree/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1480-running-sum-of-1d-array](https://github.com/kd-heree/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kd-heree/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kd-heree/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
